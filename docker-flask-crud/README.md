@@ -1,6 +1,6 @@
 
 
-1. `git clone https://github.com/aleti-pavan/docker-flask-crud.git`
+1. `git clone https://github.com/Szmulewicz/crud-chmurowe-fixed.git`
 
 2. `cd docker-flask-crud\`
 
